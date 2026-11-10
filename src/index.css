@@ -1,0 +1,77 @@
+@import "tailwindcss";
+
+/* Paleta de identidad visual de PromoNexo */
+@theme {
+  --color-violeta: #5321bf;
+  --color-violeta-oscuro: #401c7c;
+  --color-verde: #7db921;
+  --color-amarillo-anaranjado: #f2b33d;
+  --color-amarillo: #ffc93c;
+  --color-negro: #1a1a1b;
+  --color-blanco: #ffffff;
+  /* Tintes auxiliares derivados de la paleta (fondos claros) */
+  --color-fondo: #f4f1fc;
+  --color-humo: #e7e0f8;
+
+  --font-sans: "Segoe UI", "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+@layer base {
+  html {
+    scroll-behavior: smooth;
+  }
+
+  body {
+    background-color: var(--color-fondo);
+    color: var(--color-negro);
+    font-family: var(--font-sans);
+    -webkit-font-smoothing: antialiased;
+  }
+
+  ::selection {
+    background: var(--color-amarillo);
+    color: var(--color-negro);
+  }
+
+  :focus-visible {
+    outline: 3px solid var(--color-amarillo);
+    outline-offset: 2px;
+  }
+}
+
+@layer components {
+  .animar-entrada {
+    animation: promonexo-entrada 0.25s ease-out both;
+  }
+
+  .animar-modal {
+    animation: promonexo-modal 0.2s ease-out both;
+  }
+
+  .rejilla-textura {
+    background-image: radial-gradient(circle at 1px 1px, rgba(255, 255, 255, 0.18) 1px, transparent 0);
+    background-size: 22px 22px;
+  }
+}
+
+@keyframes promonexo-entrada {
+  from {
+    opacity: 0;
+    transform: translateY(8px);
+  }
+  to {
+    opacity: 1;
+    transform: none;
+  }
+}
+
+@keyframes promonexo-modal {
+  from {
+    opacity: 0;
+    transform: scale(0.97) translateY(6px);
+  }
+  to {
+    opacity: 1;
+    transform: none;
+  }
+}

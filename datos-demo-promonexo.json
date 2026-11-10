@@ -1,0 +1,390 @@
+{
+  "ciclo": 2026,
+  "nota": "Datos de demostración para el prototipo PromoNexo. Los resultados del top 5 y Mejor Hinchada fueron proporcionados por el usuario. Las actividades y los reconocimientos generales son ficticios. No asumir que todas las instituciones listadas participaron oficialmente de la Estudiantina 2026.",
+  "instituciones": [
+    {
+      "id": "bachillerato-11",
+      "nombre": "Bachillerato Provincial N.º 11 Monseñor Sixto Villoldo",
+      "localidad": "San Pedro de Jujuy",
+      "escudo": "/images/instituciones/bachillerato-11.png"
+    },
+    {
+      "id": "escuela-comercio",
+      "nombre": "Escuela de Comercio Dr. José Ingenieros",
+      "localidad": "San Pedro de Jujuy",
+      "escudo": "/images/instituciones/escuela-comercio.png"
+    },
+    {
+      "id": "tecnica-1",
+      "nombre": "Escuela de Educación Técnica N.º 1 Cnel. Manuel Álvarez Prado",
+      "localidad": "San Pedro de Jujuy",
+      "escudo": "/images/instituciones/tecnica-1.png"
+    },
+    {
+      "id": "escuela-203",
+      "nombre": "Escuela N.º 203 Su Santidad Juan XXIII",
+      "localidad": "San Pedro de Jujuy",
+      "escudo": "/images/instituciones/escuela-203.png"
+    },
+    {
+      "id": "escuela-281",
+      "nombre": "Escuela N.º 281 Provincia de Santiago del Estero",
+      "localidad": "San Pedro de Jujuy",
+      "escudo": "/images/instituciones/escuela-281.png"
+    },
+    {
+      "id": "tecnica-2",
+      "nombre": "Escuela Técnica N.º 2 Dr. Horacio Guzmán",
+      "localidad": "San Pedro de Jujuy",
+      "escudo": "/images/instituciones/tecnica-2.png"
+    },
+    {
+      "id": "escuela-normal",
+      "nombre": "Escuela Normal Superior Gral. José de San Martín",
+      "localidad": "San Pedro de Jujuy",
+      "escudo": "/images/instituciones/escuela-normal.png"
+    },
+    {
+      "id": "comercio-7",
+      "nombre": "Escuela Provincial de Comercio N.º 7 San Marcelino Champagnat",
+      "localidad": "San Pedro de Jujuy",
+      "escudo": "/images/instituciones/comercio-7.png"
+    },
+    {
+      "id": "jesus-maestro",
+      "nombre": "Instituto Católico Jesús Maestro",
+      "localidad": "San Pedro de Jujuy",
+      "escudo": "/images/instituciones/jesus-maestro.png"
+    },
+    {
+      "id": "los-olivos",
+      "nombre": "Colegio Privado Los Olivos",
+      "localidad": "San Pedro de Jujuy",
+      "escudo": "/images/instituciones/los-olivos.png"
+    },
+    {
+      "id": "san-agustin",
+      "nombre": "Colegio Privado San Agustín",
+      "localidad": "San Pedro de Jujuy",
+      "escudo": "/images/instituciones/san-agustin.png"
+    },
+    {
+      "id": "secundario-14",
+      "nombre": "Colegio Secundario N.º 14",
+      "localidad": "San Pedro de Jujuy",
+      "escudo": "/images/instituciones/secundario-14.png"
+    },
+    {
+      "id": "secundario-15",
+      "nombre": "Colegio Secundario N.º 15 Padre Miguel Ángel Aquino",
+      "localidad": "San Pedro de Jujuy",
+      "escudo": "/images/instituciones/secundario-15.png"
+    },
+    {
+      "id": "polivalente-arte-2",
+      "nombre": "Centro Polivalente de Arte N.º 2",
+      "localidad": "San Pedro de Jujuy",
+      "escudo": "/images/instituciones/polivalente-arte-2.png"
+    },
+    {
+      "id": "secundario-52",
+      "nombre": "Colegio Secundario N.º 52",
+      "localidad": "San Pedro de Jujuy",
+      "escudo": "/images/instituciones/secundario-52.png"
+    },
+    {
+      "id": "secundario-60",
+      "nombre": "Colegio Secundario N.º 60",
+      "localidad": "San Pedro de Jujuy",
+      "escudo": "/images/instituciones/secundario-60.png"
+    },
+    {
+      "id": "colegio-provincia-misiones",
+      "nombre": "Colegio Provincia de Misiones",
+      "localidad": "San Pedro de Jujuy",
+      "escudo": "/images/instituciones/colegio-provincia-misiones.png"
+    },
+    {
+      "id": "bachillerato-4",
+      "nombre": "Bachillerato Provincial N.º 4 Armada Argentina",
+      "localidad": "La Mendieta",
+      "escudo": "/images/instituciones/bachillerato-4.png",
+      "usarEnActividades": false
+    },
+    {
+      "id": "secundario-29",
+      "nombre": "Colegio Secundario N.º 29",
+      "localidad": "Rodeíto",
+      "escudo": "/images/instituciones/secundario-29.png",
+      "usarEnActividades": false
+    },
+    {
+      "id": "secundario-40",
+      "nombre": "Colegio N° 40",
+      "localidad": "San Juan de Dios",
+      "escudo": "/images/instituciones/secundario-40.png",
+      "usarEnActividades": false
+    }
+  ],
+  "rankingEstudiantina": {
+    "ciclo": 2026,
+    "mostrarSoloTop": 5,
+    "podio": 3,
+    "resultados": [
+      {
+        "posicion": 1,
+        "institucionId": "escuela-comercio",
+        "puntaje": 8970,
+        "dato": "proporcionado"
+      },
+      {
+        "posicion": 2,
+        "institucionId": "tecnica-1",
+        "puntaje": 8045,
+        "dato": "proporcionado"
+      },
+      {
+        "posicion": 3,
+        "institucionId": "escuela-normal",
+        "puntaje": 7975,
+        "dato": "proporcionado"
+      },
+      {
+        "posicion": 4,
+        "institucionId": "san-agustin",
+        "puntaje": 7035,
+        "dato": "proporcionado"
+      },
+      {
+        "posicion": 5,
+        "institucionId": "colegio-provincia-misiones",
+        "puntaje": 6930,
+        "dato": "proporcionado"
+      }
+    ],
+    "nota": "Mostrar visualmente el podio para las posiciones 1 a 3 y una tabla con las cinco posiciones. No mostrar otras posiciones ni inventar puntajes adicionales."
+  },
+  "actividades": [
+  {
+    "id": "actividad-01",
+    "nombre": "Bingo estudiantil",
+    "tipo": "Bingo",
+    "origen": "promocion",
+    "institucionId": "san-agustin",
+    "fecha": "2026-05-15",
+    "hora": "17:00",
+    "lugar": "Colegio Privado San Agustín",
+    "modalidadPago": "presencial",
+    "estado": "finalizada",
+    "dato": "ficticio"
+  },
+  {
+    "id": "actividad-02",
+    "nombre": "Rifa solidaria",
+    "tipo": "Rifa",
+    "origen": "promocion",
+    "institucionId": "escuela-normal",
+    "fecha": "2026-06-05",
+    "hora": "16:00",
+    "lugar": "Escuela Normal Superior Gral. José de San Martín",
+    "modalidadPago": "presencial",
+    "estado": "finalizada",
+    "dato": "ficticio"
+  },
+  {
+    "id": "actividad-03",
+    "nombre": "Eco Emprende",
+    "tipo": "Feria / emprendimiento",
+    "origen": "promocion",
+    "institucionId": "escuela-comercio",
+    "fecha": "2026-06-20",
+    "hora": "10:00",
+    "lugar": "Escuela de Comercio Dr. José Ingenieros",
+    "modalidadPago": "presencial",
+    "estado": "finalizada",
+    "dato": "ficticio"
+  },
+  {
+    "id": "actividad-04",
+    "nombre": "Bingo familiar",
+    "tipo": "Bingo",
+    "origen": "promocion",
+    "institucionId": "secundario-15",
+    "fecha": "2026-08-08",
+    "hora": "17:00",
+    "lugar": "Colegio Secundario N.º 15 Padre Miguel Ángel Aquino",
+    "modalidadPago": "presencial",
+    "estado": "finalizada",
+    "dato": "ficticio"
+  },
+  {
+    "id": "actividad-05",
+    "nombre": "Elección Reina",
+    "tipo": "Elección Reina",
+    "origen": "promocion",
+    "institucionId": "escuela-comercio",
+    "fecha": "2026-09-12",
+    "hora": "20:00",
+    "lugar": "Escuela de Comercio Dr. José Ingenieros",
+    "modalidadPago": "presencial",
+    "estado": "finalizada",
+    "dato": "ficticio"
+  },
+  {
+    "id": "actividad-06",
+    "nombre": "Expo Técnica",
+    "tipo": "Exposición",
+    "origen": "promocion",
+    "institucionId": "tecnica-1",
+    "fecha": "2026-09-26",
+    "hora": "09:00",
+    "lugar": "Escuela de Educación Técnica N.º 1 Cnel. Manuel Álvarez Prado",
+    "modalidadPago": "sin pago",
+    "estado": "finalizada",
+    "dato": "ficticio"
+  },
+  {
+    "id": "actividad-07",
+    "nombre": "Expo Técnica",
+    "tipo": "Exposición",
+    "origen": "promocion",
+    "institucionId": "tecnica-2",
+    "fecha": "2026-10-17",
+    "hora": "09:00",
+    "lugar": "Escuela Técnica N.º 2 Dr. Horacio Guzmán",
+    "modalidadPago": "sin pago",
+    "estado": "finalizada",
+    "dato": "ficticio"
+  },
+  {
+    "id": "actividad-08",
+    "nombre": "Rifa estudiantil",
+    "tipo": "Rifa",
+    "origen": "promocion",
+    "institucionId": "bachillerato-11",
+    "fecha": "2026-11-14",
+    "hora": "16:00",
+    "lugar": "Bachillerato Provincial N.º 11 Monseñor Sixto Villoldo",
+    "modalidadPago": "presencial",
+    "estado": "proxima",
+    "dato": "ficticio"
+  }
+],
+  "reconocimientos": [
+    {
+      "id": "reconocimiento-01",
+      "categoria": "Solidaridad",
+      "institucionId": "san-agustin",
+      "ciclo": 2026,
+      "motivo": "Participación en iniciativas solidarias y acciones de ayuda comunitaria.",
+      "dato": "ficticio"
+    },
+    {
+      "id": "reconocimiento-02",
+      "categoria": "Comunicación y difusión",
+      "institucionId": "escuela-comercio",
+      "ciclo": 2026,
+      "motivo": "Difusión de actividades y comunicación de propuestas estudiantiles.",
+      "dato": "ficticio"
+    },
+    {
+      "id": "reconocimiento-03",
+      "categoria": "Colaboración",
+      "institucionId": "escuela-normal",
+      "ciclo": 2026,
+      "motivo": "Colaboración en actividades e iniciativas compartidas.",
+      "dato": "ficticio"
+    }
+  ],
+  "reconocimientoEstudiantina": {
+    "id": "mejor-hinchada-2026",
+    "nombre": "Mejor Hinchada",
+    "institucionId": "polivalente-arte-2",
+    "ciclo": 2026,
+    "dato": "proporcionado",
+    "nota": "Este reconocimiento corresponde exclusivamente a la Estudiantina y no forma parte de las categorías generales de reconocimientos."
+  },
+  "galeria": [
+    {
+      "id": "galeria-01",
+      "titulo": "Bingo estudiantil",
+      "categoria": "Actividades",
+      "imagen": "/images/galeria/bingo-estudiantil.jpg",
+      "dato": "imagen ilustrativa pendiente"
+    },
+    {
+      "id": "galeria-02",
+      "titulo": "Eco Emprende",
+      "categoria": "Actividades",
+      "imagen": "/images/galeria/eco-emprende.jpg",
+      "dato": "imagen ilustrativa pendiente"
+    },
+    {
+      "id": "galeria-03",
+      "titulo": "Elección Reina",
+      "categoria": "Eventos",
+      "imagen": "/images/galeria/eleccion-reina.jpg",
+      "dato": "imagen ilustrativa pendiente"
+    },
+    {
+      "id": "galeria-04",
+      "titulo": "Expo Técnica",
+      "categoria": "Actividades",
+      "imagen": "/images/galeria/expo-tecnica.jpg",
+      "dato": "imagen ilustrativa pendiente"
+    },
+    {
+      "id": "galeria-05",
+      "titulo": "Actividades estudiantiles",
+      "categoria": "Actividades",
+      "imagen": "/images/galeria/actividades-estudiantiles.jpg",
+      "dato": "imagen ilustrativa pendiente"
+    },
+    {
+      "id": "galeria-06",
+      "titulo": "Estudiantina 2026",
+      "categoria": "Estudiantina",
+      "imagen": "/images/galeria/estudiantina-2026.jpg",
+      "dato": "imagen ilustrativa pendiente"
+    }
+  ],
+  "anuarios": [
+    {
+      "id": "anuario-2026",
+      "ciclo": 2026,
+      "titulo": "Un año de participación estudiantil",
+      "descripcion": "Recorrido por las actividades, eventos, reconocimientos y momentos destacados del ciclo 2026.",
+      "imagenes": [
+        "/images/anuario/anuario-portada-2026.jpg",
+        "/images/anuario/anuario-actividades-2026.jpg",
+        "/images/anuario/anuario-estudiantina-2026.jpg"
+      ],
+      "rankingReferencia": "rankingEstudiantina",
+      "reconocimientosReferencia": "reconocimientos",
+      "dato": "contenido de demostración"
+    }
+  ],
+  "usuariosDemo": [
+    {
+      "id": "usuario-admin",
+      "usuario": "admin",
+      "contrasena": "admin123",
+      "rol": "administrador"
+    },
+    {
+      "id": "usuario-delegado",
+      "usuario": "delegado",
+      "contrasena": "delegado123",
+      "rol": "delegado",
+      "institucionId": "escuela-comercio"
+    }
+  ],
+  "recursos": {
+    "carpetas": {
+      "escudos": "/public/images/instituciones/",
+      "galeria": "/public/images/galeria/",
+      "anuario": "/public/images/anuario/"
+    },
+    "nota": "Las rutas anteriores representan ubicaciones esperadas dentro de public. Los archivos de imagen pueden agregarse posteriormente usando exactamente esos nombres."
+  }
+}
